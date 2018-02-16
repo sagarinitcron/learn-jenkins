@@ -1,7 +1,7 @@
 # Jenkins Primer for a Devops Engineer
 
 
-* [Chapter 2: Setting up Learning Environment](https://github.com/schoolofdevops/learn-jenkins/blob/master/continuous-delivery/chapters/020_install_jenkins.md)  
+* [Chapter 2: Setting up CI-CD Environment](https://github.com/schoolofdevops/learn-jenkins/blob/master/continuous-delivery/chapters/020_install_jenkins.md)  
 * [Chapter 3: Jenkins Systems Configurations](https://github.com/schoolofdevops/learn-jenkins/blob/master/continuous-delivery/chapters/030_configure_jenkins.md)
 * [ Chapter 4: Creating First Project with Jenkins](https://github.com/schoolofdevops/learn-jenkins/blob/master/continuous-delivery/chapters/040_creating_first_job.md)
 * [Chapter 5: Adding Build Triggers ](https://github.com/schoolofdevops/learn-jenkins/blob/master/continuous-delivery/chapters/050_add_build_triggers.md)
